@@ -2,3 +2,9 @@ App name = awesome app
 
 feature = 
 * comments
+* login
+* register
+* manage user
+
+*test
+*test baru
