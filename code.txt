@@ -2,3 +2,4 @@ App name = awesome app
 
 feature = 
 * comments
+* About Me
