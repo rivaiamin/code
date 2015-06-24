@@ -3,3 +3,9 @@ App name = awesome app
 feature = 
 * comments
 * login #lagi
+* login
+* register
+* manage user
+
+*test
+*test baru
